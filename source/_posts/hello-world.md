@@ -1,39 +1,18 @@
 ---
-title: Hello World
+title: vsCode实用插件
 abbrlink: 16107
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
+## vsCode实用插件
+### 1.wechat-snippet
+微信小程序代码辅助,代码片段自动完成
+### 2.Vetur
+vue代码高亮，需要在settings.json里配置
+步骤：ctrl+shift+p   ——》 首选项：打开设置(json)
+然后在配置里添加如下代码：
+```
+"files.associations": {
+        "*.vue": "html"
+    },
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+ 
