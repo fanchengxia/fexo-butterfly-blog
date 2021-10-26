@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:fan-fan888/fan-fan888.github.io.git
+  repo: git@github.com:fanchengxia/fanchengxia.github.io.git
   branch: master
 
 
