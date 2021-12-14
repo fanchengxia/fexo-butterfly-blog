@@ -42,4 +42,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ```
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ### 4.访问地址：
-[https://fan-fan888.github.io/](https://fan-fan888.github.io/)
+[https://fanchengxia.github.io/](https://fanchengxia.github.io/)
